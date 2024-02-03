@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="493c8b74-473e-4a86-808a-7ff5db58505f" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/AGI2024.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Analyzer.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ApplicationLocation.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/BapnaFunk_AGIHackathon-final.pptx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/City_Code.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CompanyFinancialProbability.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CompanyQuantity.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DataAnalyzer.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DataDictionary.docx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Hackathon Presentation.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/IncreaseInJobApps.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/IncreasedJobApp_grad_postgrad.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/State_Code.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/UndergradTeam1Final.mp4" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WomenGotInterview.py" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 5
+}</component>
+  <component name="ProjectId" id="2bp2uE0pAXoyUnTCezGSoxOZFqC" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;ASKED_ADD_EXTERNAL_FILES&quot;: &quot;true&quot;,
+    &quot;Python.ApplicationLocation.executor&quot;: &quot;Run&quot;,
+    &quot;Python.CompanyQuantity.executor&quot;: &quot;Run&quot;,
+    &quot;Python.DataAnalyzer.executor&quot;: &quot;Run&quot;,
+    &quot;Python.IncreaseInJobApps.executor&quot;: &quot;Run&quot;,
+    &quot;Python.IncreasedJobApp_grad_postgrad.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
+    &quot;last_opened_file_path&quot;: &quot;D:/AGI2024&quot;
+  }
+}</component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\AGI2024" />
+    </key>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-python-sdk-5a2391486177-d3b881c8e49f-com.jetbrains.pycharm.community.sharedIndexes.bundled-PC-233.13763.11" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="493c8b74-473e-4a86-808a-7ff5db58505f" name="Changes" comment="" />
+      <created>1706897920204</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1706897920204</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+  </component>
+</project>
